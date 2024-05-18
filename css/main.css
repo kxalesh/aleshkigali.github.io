@@ -17,7 +17,7 @@ html, body, #main
 
 body
 {
-	background-image: url("/lib/Kamo.jpg");
+	background-image: url("https://s2.loli.net/2024/05/19/xRlOiDGomjwH3Lk.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: 100% 100%;
@@ -373,7 +373,7 @@ aside #toc a:hover{
 #articleList 
 {
 	position: absolute;
-	background-image: url("/lib/Kamo.jpg");
+	background-image: url("http://localhost:4000/aleshkigali.github.io/");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: 100% 100%;
